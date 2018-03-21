@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    //activity_main.xml
+    <string name="zero">0</string>
+    <string name="goal">Goal</string>
+    <string name="foul">Foul</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="resetA">Reset Team A</string>
+    <string name="resetB">Reset Team B</string>
+    <string name="reset">Reset</string>
+</resources>
